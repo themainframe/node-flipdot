@@ -1,0 +1,12 @@
+{
+  "name": "flipdot",
+  "version": "1.0.0",
+  "description": "Flipdot Sign Controller",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.5.1",
+    "serialport": "^6.0.4",
+    "winston": "^2.4.0"
+  }
+}
